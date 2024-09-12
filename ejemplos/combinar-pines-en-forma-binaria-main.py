@@ -18,6 +18,10 @@
 # Este programa se puede probar en el simulador (https://python.microbit.org/v/3/reference) 
 # usando la opcion avanzada de los pines que permite 'Mantener pulsado' uno o varios pines.
 
+# El siguiente proyecto de Tinkercad muestra como se podrian conectar 4 botones al micro:bit
+# para usar este codigo. Solo se muestran 4 botones, pero la solucion puede extenderse a 7.
+# https://www.tinkercad.com/things/7HiXJUVlfW3-microbit-4-button-3-pin-solution-with-diodes
+
 from microbit import *
 import music
 
